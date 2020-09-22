@@ -1,16 +1,43 @@
-# curso
+## Desenvolvedor
+> Gustavo Duregger RM79757
 
-A new Flutter project.
+## Screenshots
+<p align = "center">
+  <img src="https://github.com/GustavoDuregger/cursosMobXandGetX/blob/master/assets/screenshots/1.jpg" width="200px">
+  <img src="https://github.com/GustavoDuregger/cursosMobXandGetX/blob/master/assets/screenshots/2.jpg" width="200px">
+  <img src="https://github.com/GustavoDuregger/cursosMobXandGetX/blob/master/assets/screenshots/3.jpg" width="200px">
+  <img src="https://github.com/GustavoDuregger/cursosMobXandGetX/blob/master/assets/screenshots/gravacao.gif" width="200px">
+</p>
 
-## Getting Started
+## :sparkles: Tecnologias
 
-This project is a starting point for a Flutter application.
+Esse projeto foi desenvolvido com:
 
-A few resources to get you started if this is your first Flutter project:
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- MobX
+- GetX
+- Shimmer
+- dio
+- Splashscreen
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Projeto
+Projeto desenvolvido com o Ministério Público do Estado de São Paulo com o intuito de promover um melhor atendimento ao cidadão com as promotorias. Aplicativo móvel para Android e iOS com Flutter com funções de chat, histórico de atendimento, upload de documentos, chatbot com Dialogflow, google maps dentre muitas outras funcionalidades.
+
+ <img src="https://github.com/GustavoDuregger/cidadao_mobile/blob/master/assets/screenshots/mapa.png">
+ 
+## :cyclone: Getting Started
+
+### Clone
+Clone o repositório em sua maquina
+
+```git clone https://github.com/GustavoDuregger/cidadao_mobile.git```
+
+### Get packages
+```flutter pub get```
+
+### Run
+Selecione Run and Debug na IDE
+
